@@ -1,0 +1,4 @@
+[ 2026-04-20 12:21:10,979 ] 23 root - INFO - Logging has started
+[ 2026-04-20 12:21:18,318 ] 23 root - INFO - Logging has started
+[ 2026-04-20 12:21:32,236 ] 34 root - ERROR - Divide by Zero error.
+[ 2026-04-20 12:21:32,236 ] 24 root - ERROR - Error occurred in python script name [C:\Users\Ayush\Desktop\MlProject\src\exception.py] line number [32] error message [division by zero]
