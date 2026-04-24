@@ -52,6 +52,24 @@ coverage.xml
 *.py,cover
 .hypothesis/
 
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+venv/
+
+# Data
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
 # Jupyter Notebook
 
 .ipynb_checkpoints/
